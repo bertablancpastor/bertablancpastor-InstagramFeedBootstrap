@@ -1,0 +1,20 @@
+.dropdown-menu[data-bs-popper] {
+    left: -85px;
+}
+
+.title{
+    padding-right: 400px;
+    padding-top: 20px;
+}
+
+.date{
+    padding-top: 20px;
+}
+
+#logout{
+    color: red
+}
+
+.btn btn-light{
+    border: 5px solid grey
+}
